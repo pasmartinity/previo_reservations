@@ -1,7 +1,7 @@
 {
     "domain": "previo_reservations",
     "name": "Previo Reservations",
-    "version": "1.0",
+    "version": "1.0.0",
     "dependencies": [],
     "codeowners": ["pahu"],
     "requirements": ["requests", "xmltodict"],
